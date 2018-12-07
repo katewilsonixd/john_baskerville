@@ -1,5 +1,4 @@
 /*------ CSS RESET ------ */
-
 *{
 padding;0;
 margin:0;
@@ -14,14 +13,14 @@ width; 75%;
 max-width: 670px;
 margin: auto;
 background: #fafafa;
-color: black;
+color: #black;
 }
 
 
 /* ------------TYPOGRAPHY------------ */
 h1, h2, h3 {
     font-weight: normal;
-    color: #cc0066;
+    color: #60c3e0;
     text-align: center
     }
 
@@ -60,11 +59,11 @@ header h3 {
 /* -----------STYLING LINKS -------------*/
 
 a {
-    color: #c06;
+    color: #000000;
     text-decoration: none;
 }
 a:hover {
-    color: #000;
+    color: #ff002a;
     border-bottom: 1px dotted 
 }
     
@@ -95,7 +94,8 @@ nav a:link {color:#fff}
 nav a:visited {color:#fff}
 
 nav a:hover {border-bottom:none;
-    color: #000}
+    color: #fff
+}
 
 /*--------------BLOCKQUOTE-----------*/
 

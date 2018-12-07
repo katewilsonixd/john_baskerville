@@ -9,12 +9,13 @@ line-height: 1em;
 
 /*------ MAIN STYLING ------ */
 
-body {    
+body {   
 width; 75%;
 max-width: 670px;
 margin: auto;
 background: #fafafa;
-color: black;
+color: #33333;
+font-family: 'Libre Baskerville', serif; 
 }
 
 
@@ -46,7 +47,7 @@ h3 { font-size: 1.999em
 }
     
     blockquote {
-        hanging-punctuation: first; 
+        hanging-punctuation:first; 
         text-indent:-0.5em
          }
 
@@ -135,3 +136,35 @@ blockquote cite {
         color:#333;
         border: 0 none
     }
+
+table, th, td {
+    
+border: 1px solid black;
+border-collapse:collapse; 
+}
+
+table {
+    align-content: center;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+    font-family: 'Libre Baskerville', serif; 
+}
+
+caption {
+    text-align: center;
+    padding-bottom: 1em;
+    
+}
+
+
+
+
+
+
+
+
+
+
+

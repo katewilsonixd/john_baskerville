@@ -9,12 +9,13 @@ line-height: 1em;
 
 /*------ MAIN STYLING ------ */
 
-body {    
+body {   
 width; 75%;
 max-width: 670px;
 margin: auto;
-background: #fafafa;
-color: black;
+background-color:#efe59b;
+color: #33333;
+font-family: 'Libre Baskerville', serif; 
 }
 
 
@@ -46,7 +47,7 @@ h3 { font-size: 1.999em
 }
     
     blockquote {
-        hanging-punctuation: first; 
+        hanging-punctuation:first; 
         text-indent:-0.5em
          }
 
@@ -135,3 +136,76 @@ blockquote cite {
         color:#333;
         border: 0 none
     }
+
+table {
+    margin: auto;
+}
+
+table, th, td {
+    
+border: 1px solid black;
+border-collapse:collapse; 
+}
+
+
+th, td {
+    padding: 6px;
+    align-content: center;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif; 
+}
+
+caption {
+    text-align: center;
+    padding-bottom: 1em;
+    
+}
+
+/*----------------STYLING LINKS-----------------*/
+.connections{
+    position: relative;
+    margin: auto;
+    display: inline;
+    margin: 20px, 0;
+    
+}
+
+.connections ul {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.connections li{
+    margin: 0 15px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.connections a:link {
+    border-bottom: none;
+}
+
+.connection img {
+    opacity: 0.5;
+    border: none;
+        
+    }
+
+.connections a:hover img {
+    opacity: 1.0;
+    border-bottom: none;
+    transition: all 0,8s ease-in-out;
+    transform: scale(1.2);
+    
+}
+
+
+
+
+
+
+
+
