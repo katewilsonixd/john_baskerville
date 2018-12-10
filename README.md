@@ -13,3 +13,7 @@
 
 [baskerville 6](https://katewilsonixd.github.io/john_baskerville/johnbaskerville6.html)
 
+# Type task
+[john Baskerville fonts]
+
+[Version 1,2,3](https://katewilsonixd.github.io/john_baskerville/johnbaskerville1,2,3.html)
