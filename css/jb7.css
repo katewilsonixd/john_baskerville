@@ -14,10 +14,11 @@ width; 75%;
 max-width: 670px;
 margin: auto;
 background-color:#efe59b;
-color: #33333;
+color: #fff;
 font-family: 'Libre Baskerville', serif; 
 }
 
+article { background: #555}
 
 /* ------------TYPOGRAPHY------------ */
 h1, h2, h3 {
@@ -64,7 +65,7 @@ a {
     color: #c06;
     text-decoration: none;
 }
-a:hover {
+a:hover, a:active {
     color: #000;
     border-bottom: 1px dotted 
 }
@@ -76,9 +77,10 @@ nav {
     left:0;
     margin:0;
     width:100%;
-    background-color: #c06;
+    background-color: #c0abd2;
     padding:1em 0;
-    font-size: 0.75em
+    font-size: 0.75em;
+    position: fixed;
 }
 
 nav ul {

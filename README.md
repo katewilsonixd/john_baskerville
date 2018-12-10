@@ -18,4 +18,13 @@
 
 [version 1,2,3](https://katewilsonixd.github.io/john_baskerville/johnbaskerville1,2,3.html)
 
-# briefhistoryoftype
+# brief_history_of_type
+[briefhistoryoftype](https://katewilsonixd.github.io/john_baskerville/bhot1.html)
+
+[briefhistoryoftype1](https://katewilsonixd.github.io/john_baskerville/bhot2.html)
+
+[briefhistoryoftype2](https://katewilsonixd.github.io/john_baskerville/bhot3.html)
+
+[briefhistoryoftype3](https://katewilsonixd.github.io/john_baskerville/bhot4.html)
+
+[briefhistoryoftype4](https://katewilsonixd.github.io/john_baskerville/bhot5.html)
