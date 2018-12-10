@@ -10,3 +10,6 @@
 [baskerville 4](https://katewilsonixd.github.io/john_baskerville/johnbaskerville4.html)
 
 [baskerville 5](https://katewilsonixd.github.io/john_baskerville/johnbaskerville5.html)
+
+[baskerville 6](https://katewilsonixd.github.io/john_baskerville/johnbaskerville6.html)
+
