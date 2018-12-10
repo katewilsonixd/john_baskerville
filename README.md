@@ -16,7 +16,7 @@
 # typetask
 [johnbaskerville]
 
-[version 1,2,3](https://katewilsonixd.github.io/john_baskerville/johnbaskerville1,2,3.html)
+[exercise](https://katewilsonixd.github.io/john_baskerville/exercise.html)
 
 # brief_history_of_type
 [briefhistoryoftype](https://katewilsonixd.github.io/john_baskerville/bhot1.html)
