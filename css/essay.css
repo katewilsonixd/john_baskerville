@@ -13,18 +13,19 @@ body {
 width; 75%;
 max-width: 670px;
 margin: auto;
-background-color:#efe59b;
-color: #fff;
+background-color:#fff;
+color: #000;
 font-family: 'Libre Baskerville', serif; 
 }
 
-article, footer { background: #555;
+
+article, footer { background: #fff;
     padding: 1em}
 
 /* ------------TYPOGRAPHY------------ */
-h1, h2, h3 {
+ h2, h3,h4 {
     font-weight: normal;
-    color: #cc0066;
+    color: #ffcc33;
     text-align: center
     }
 
@@ -35,26 +36,31 @@ p, li, blockquote {
 }
 
 h1 {
-    font-size: 3.998em;
-    margin-top: 1em; 
-    margin-bottom: 0.1em;
+    font-size: 34;
+    margin: 3em
+    color: #ffcc33;
+    text-align: center
+        
 }
 
 h2 {
-    font-size: 2.827em;
-    margin; 1em 0
+    font-size: 1.999em
 }
 
 h3 { font-size: 1.999em
 }
+h4 { font-size: 1.999em
+}
+
+
     
     blockquote {
         hanging-punctuation:first; 
-        text-indent:-0.5em
+        text-indent:-0.3em
          }
 
 header h3 {
-    font-style:italic;
+    font-style:
     font-size: 2.35em;
     margin: .1em 0 2em 0;
     color: #333 
@@ -78,7 +84,7 @@ nav {
     left:0;
     margin:0;
     width:100%;
-    background-color: #c0abd2;
+    background-color: #000;
     padding:1em 0;
     font-size: 0.75em;
     position: fixed;
@@ -120,8 +126,17 @@ blockquote cite {
         display: block;
         margin:4em auto;
         padding:0;
-        max-width: 100%
-    }
+        max-width: 100%;
+}
+
+.hand {
+        display: block;
+        margin: 0;
+        padding:0;
+        max-width: 100%;
+    
+    
+}
     
 /*-------------FOOTER----------------*/
 
@@ -140,23 +155,8 @@ blockquote cite {
         border: 0 none
     }
 
-table {
-    margin: auto;
-}
-
-table, th, td {
-    
-border: 1px solid black;
-border-collapse:collapse; 
-}
 
 
-th, td {
-    padding: 6px;
-    align-content: center;
-    text-align: center;
-    font-family: 'Libre Baskerville', serif; 
-}
 
 caption {
     text-align: center;
@@ -168,7 +168,7 @@ caption {
 .connections{
     position: relative;
     margin: auto;
-    display: inline;
+    display: ;
     margin: 20px, 0;
     
 }
